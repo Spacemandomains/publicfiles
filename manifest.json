@@ -8,7 +8,7 @@
       "type": "image/png"
     },
     {
-      "Src": "https://raw.githubusercontent.com/Spacemandomains/webappimages/main/512x512.png",
+      "src": "https://raw.githubusercontent.com/Spacemandomains/webappimages/main/512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
